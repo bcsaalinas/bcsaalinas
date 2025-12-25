@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’m Alberto Cisneros Salinas 🎓, a Computer Science student at Universidad Panamericana, Campus Guadalajara.<br>I’ve worked on projects from frontend development with React ⚛️ to Python server operations during Google Summer of Code 🐍.<br>I know my way around modern C++ (11/20) 💻, but what I really love is building interactive websites 🌐 with JavaScript, React, HTML, and CSS — turning ideas into things people can actually use ✨.</p>
+<p align="left">I’m Alberto Cisneros Salinas 🎓, a Computer Science student at Universidad Panamericana, Campus Guadalajara.<br>I’ve worked on projects from frontend development with React ⚛️ to Python server operations 🐍.<br>I know my way around modern C++ (11/20) 💻, but what I really love is building interactive websites 🌐 with JavaScript, React, HTML, and CSS — turning ideas into things people can actually use ✨.</p>
 
 ###
 
