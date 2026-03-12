@@ -91,11 +91,14 @@ Besides web dev, I’m comfortable with <b>C++</b>, <b>Python</b>, <b>Java</b>, 
   <a href="https://github.com/bcsaalinas" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="github" />
   </a>
-  <!-- TODO Add linkedin
-  <a href="YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin" />
-  </a>
-  -->
+  <a href="https://codemetrics.onrender.com" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/code%20metrics-111827?style=for-the-badge&logo=googleanalytics&logoColor=white"
+    alt="Code Metrics"
+  />
+</a>
+  
+
 </div>
 
 <br clear="both"/>
