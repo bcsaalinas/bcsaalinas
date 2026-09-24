@@ -1,4 +1,4 @@
-<h1 align="center">What up! 🤘</h1>
+<h1 align="center">Yo</h1>
 
 <h3 align="center">
   CS student @ Universidad Panamericana (Guadalajara) • Full-stack + Motion-first UI
